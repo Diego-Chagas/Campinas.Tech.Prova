@@ -23,7 +23,6 @@ Fazer um sistema (MVP 0) para cadastro de venda de Imóveis, tendo os seguintes 
  
 
 #### Mostra de página
-
 Topo da página
 ![](https://i.imgur.com/zeI5gDJ.png)
 Continuação da página\/
